@@ -43,4 +43,3 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Spring Data Elasticsearch [[Download]](/book/Spring%20Data%20Elasticsearch.pdf)
 * The Logstash Book [[Download]](/book/The%20Logstash%20Book.pdf)
 * Yes Logging Can Be Awesome - James Turnbull [[Download]](/book/Yes%20Logging%20Can%20Be%20Awesome%20-%20James%20Turnbull.pdf)
-
